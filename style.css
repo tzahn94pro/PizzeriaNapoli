@@ -1,8 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Madurai:wght@300;400;500;600;700&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: darkgreen;
+}
+
+li, a, button {
+    font-family: "Hind Madurai", sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    color: #FFF;
+    text-decoration: none;
+}
+
+header {
+    background-color: beige;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10%;
+}
+
 body {
     margin: 0px;
 }
 
-h1 {
+.logo {
+    cursor: pointer;
+    height: 100px;
+    width: 300px;
+    border-radius: 10%;
+    box-shadow: #FFF;
+}
+
+.nav__links {
+    list-style: none;
+}
+
+.nav__links ul {
+    display: inline-block;
+    padding: 20px  20px;
+    overflow: hidden;
+}
+
+.nav__links li {
+    float: left;
+    padding: 10px;
+}
+
+.nav__links a {
+    transition: all 0.3s ease 0s;
+    display: block;
+    text-align: center;
+}
+
+button {
+    padding: 10px 25px;
+   
+    color: aquamarine;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+}
+
+button:hover {
+    background-color: aquamarine;
+    color: darkslategray;
+}
+
+a:hover{
+    background-color: aquamarine;
+    color: darkslategray;
+    border-radius: 50px;
+}
+
+.aktuelle {
+    border-radius: 50px;
+    background-color: aquamarine;
+    color: darkslategray;
+ }
+
+/*
+<!--h1 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 64px;
     font-weight: 600;
@@ -28,4 +110,4 @@ font-family: Arial, Helvetica, sans-serif;
 
 .ueberschrift {
     margin-top: 0%;
-}
+}*/
