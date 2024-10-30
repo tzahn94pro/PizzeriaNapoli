@@ -1,3 +1,11 @@
 # Website PizzeriaNapoli
 
-Hier entsteht eine fiktive Website einer fiktiven Pizzeria
+Hier entsteht eine Website einer fiktiven Pizzeria
+
+## Hauptseite
+
+## Speisekarte
+
+## Serviceseite
+
+## Wissenswertes 
