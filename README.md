@@ -16,4 +16,4 @@ An dieser Stelle können die Adresse sowie Kontaktmöglichkeiten gefunden werden
 
 ## Wissenswertes 
 
-Diese Seite beinhaltet Wissenswertes zu den Gerichten, die in der Pizzeria angeboten werden. 
+Diese Seite beinhaltet Wissenswertes zu  der Geschichte von Pizza und Pasta. 
